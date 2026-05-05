@@ -34,7 +34,7 @@ LLM, hallucination, uncertainty, discourse analysis, retrieval, RAG
   title        = {Responding Without Knowing: Discursive Strategies of Large Language Models Under Information Scarcity},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18894399}
+  doi          = {10.5281/zenodo.19812343}
 }
 ```
 
