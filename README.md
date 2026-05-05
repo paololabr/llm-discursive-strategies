@@ -7,10 +7,10 @@
 ---
 
 📄 **Paper (Zenodo):**
-https://doi.org/10.5281/zenodo.18894399
+https://doi.org/10.5281/zenodo.19812343
 
 📥 **Download PDF:**
-https://zenodo.org/records/18894399/files/Labruna_Responding_without_knowing_LLM_discursive_strategies.pdf
+https://zenodo.org/records/19812343/files/Labruna_Responding_without_knowing_LLM_discursive_strategies.pdf
 
 ---
 
